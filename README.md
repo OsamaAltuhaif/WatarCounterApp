@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-Video for the project
+Video for the project 
+Watch the video in YouTube click this image to start
+
 [![Watch the video](https://i.ytimg.com/vi/2wk5CmvXTe0/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLC9WTMwRQvY7sUXBwM3aG1cAyS66w)](https://youtube.com/shorts/2wk5CmvXTe0?si=hovMtKD5xXhSi-Pj)
 
 
