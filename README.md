@@ -1,6 +1,10 @@
 # water_app
 
 A new Flutter project.
+Video for the project
+![video the projects](assets/video.mp4)
+
+
 
 ## Getting Started
 
